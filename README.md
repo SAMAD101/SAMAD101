@@ -19,5 +19,5 @@
 
 <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: Code Geass is my favrouite anime.
+- ⚡ Fun fact: Code Geass is the best anime.
 
