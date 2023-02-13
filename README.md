@@ -3,7 +3,7 @@
 <!--
 **SAMAD101/SAMAD101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 💙 _Make the Elegant~_ 💙
+💙 _Make the Elegant~_ 💙
 
 
 <!-- - 🔭 I’m currently working on .. -->
@@ -14,6 +14,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 - 💬 Ask me about Python, Linux
+
 - 📫 How to reach me: 
 - @Discord: BlueCircle3639
 - email: asamadans@gmail.com
