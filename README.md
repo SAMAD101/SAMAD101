@@ -11,7 +11,9 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Python, Linux
-- 📫 How to reach me: @Discord: BlueCircle3639
+- 📫 How to reach me: 
+- @Discord: BlueCircle3639
+- email: asamadans@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Code Geass is my favrouite anime.
 
