@@ -20,8 +20,7 @@ Welcome here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: Code Geass is the best anime.
+- ⚡ Fun fact: Code Geass is the best anime.<br>
 <br>
-<br>
-Some stats:
+📊 Some stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAMAD101&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
