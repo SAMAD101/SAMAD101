@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning Django and Bootstrap
 <br>
 <!-- - 👯 I’m looking to collaborate on ... -->
-
 <!-- - 🤔 I’m looking for help with ... -->
 
 💬 Ask me about Python, Linux
@@ -18,7 +17,7 @@
 - @Discord: BlueCircle3639
 - email: asamadans@gmail.com
 
+<br>
 - 😄 Pronouns: He/Him
- 
 - ⚡ Fun fact: Code Geass is my favrouite anime.
 
