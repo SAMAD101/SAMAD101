@@ -19,5 +19,6 @@
 
 <br>
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: Code Geass is my favrouite anime.
 
