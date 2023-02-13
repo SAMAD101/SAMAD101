@@ -18,7 +18,6 @@
 - email: asamadans@gmail.com
 
 <br>
-- 😄 Pronouns: He/Him
-
+- 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Code Geass is my favrouite anime.
 
