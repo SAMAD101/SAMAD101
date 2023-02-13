@@ -14,7 +14,7 @@ Welcome here ![visitors](https://visitor-badge.glitch.me/badge?page_id=SAMAD101)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,java,django,bootstrap)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,django,bootstrap)](https://skillicons.dev) <br>
 
 📫 How to reach me: 
 - @Discord: BlueCircle3639
