@@ -1,4 +1,4 @@
-# Hi there 👋 <br>
+# Hi there 👋🏻 <br>
 Welcome here    ![visitors](https://visitor-badge.glitch.me/badge?page_id=SAMAD101) <br>
 <img src="https://github.com/SAMAD101/SAMAD101/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> <br>
 <!--
