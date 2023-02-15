@@ -10,7 +10,7 @@ Welcome here    ![visitors](https://visitor-badge.glitch.me/badge?page_id=SAMAD1
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 ### 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,django,bootstrap,sqlite)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,django,bootstrap)](https://skillicons.dev) 
 <br>
 <br>
 ### 📫 How to reach me: 
