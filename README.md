@@ -24,7 +24,7 @@ Welcome here
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMAD101&show_icons=true&locale=en&layout=compact" alt="Sam" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMAD101&" alt="Sam" />
 <br>
-⚡ Fun fact: Code 
+⚡ Fun fact:
 
 
 
