@@ -8,7 +8,7 @@ Welcome here
 -->
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
-- 🌱 I’m currently learning Django and Bootstrap
+- 🌱 I’m currently learning Django, Bootstrap and SQL.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 ### 💻 Skill:<br>
