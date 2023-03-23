@@ -16,7 +16,7 @@ Welcome here
 <br>
 <br>
 ### 📫 How to reach me: 
-- @Discord: BlueCircle3639
+- Discord: @BlueCircle3639
 - email: asamadans@gmail.com
 <br>
 <h3> 📊 Some stats: </h3>
