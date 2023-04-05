@@ -8,7 +8,7 @@ Welcome here
 -->
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
-- 🌱 I’m currently learning Django, Redis and contributing to Wagtail. 
+- 🌱 I’m currently learning Django, Docker and contributing to Wagtail. 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 ### 💻 Skill:<br>
