@@ -12,7 +12,7 @@ Welcome here
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 ### 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,django,bootstrap,scss,sqlite,redis,docker)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,django,bootstrap,linux,scss,sqlite,redis,docker)](https://skillicons.dev) 
 <br>
 <br>
 ### 📫 How to reach me: 
