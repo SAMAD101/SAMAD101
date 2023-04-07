@@ -24,5 +24,5 @@ Welcome here
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMAD101&show_icons=true&locale=en&layout=compact" alt="Sam" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMAD101&" alt="Sam" />
 <br>
-<a href="https://github.com/SAMAD101/github-readme-activity-graph"><img alt="Sam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SAMAD101&theme=tokyonight" />
+<a href="https://github.com/SAMAD101/github-readme-activity-graph"><img alt="Sam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SAMAD101&theme=tokyonight" /></a>
 - 💫 Fun fact: People who give up before even trying despite having resources frustrate me.
