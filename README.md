@@ -9,6 +9,7 @@ Welcome here
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
 - 🌱 I’m currently learning Django, Docker and contributing to Wagtail. 
+- 💫 Fun fact: People who give up before even trying despite having resources frustrate me.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 ### 💻 Skill:<br>
@@ -26,4 +27,4 @@ Welcome here
 <br>
 <a href="https://github.com/SAMAD101/github-readme-activity-graph"><img alt="Sam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SAMAD101&theme=tokyonight" /></a> 
 <br>
-- 💫 Fun fact: People who give up before even trying despite having resources frustrate me.
+
