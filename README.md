@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hello there :) Welcome here</h1>
+<h1 align="center">Hello there :) Welcome here</h1>
 
 
 ![giphy](https://user-images.githubusercontent.com/71956678/236571181-c1e435cf-4a3a-468f-8801-85f071b0201c.gif)
