@@ -12,9 +12,10 @@ Welcome here
 - 💫 Fun fact: People who give up before even trying despite having resources frustrate me.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-### 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,django,bootstrap,sqlite,redis,docker)](https://skillicons.dev) 
 <br>
+### 💻 Skill:
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,django,bootstrap,sqlite,redis,docker)](https://skillicons.dev) 
+
 <br>
 ### 📫 How to reach me: 
 - Discord: @BlueCircle3639
