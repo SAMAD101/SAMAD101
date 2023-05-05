@@ -9,7 +9,7 @@
 
 ### 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
-- 🌱 I’m currently learning Django, Docker and contributing to Wagtail. 
+- 🌱 I’m currently learning Django and Docker
 - 💫 Fun fact: People who give up before even trying despite having resources frustrate me.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
