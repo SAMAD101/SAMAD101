@@ -16,7 +16,6 @@
 
 
 ### 💻 Skill and Tools:
-
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
@@ -26,12 +25,9 @@
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 <a href="https://www.sqlite.org/docs.html"><img src="https://img.icons8.com/color/48/000000/sql.png"/></a>
+<a href="https://docs.wagtail.io/">![logo](https://user-images.githubusercontent.com/71956678/236685507-cdfcc9da-9d2b-477f-b5e1-97ebd6c7cbd6.png)</a>
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a href="https://docs.wagtail.io/">![logo](https://user-images.githubusercontent.com/71956678/236685507-cdfcc9da-9d2b-477f-b5e1-97ebd6c7cbd6.png)</a>
-
-
-
 
 
 ### 📫 How to reach me: 
