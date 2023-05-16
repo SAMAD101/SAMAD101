@@ -28,6 +28,9 @@
 <a href="https://docs.wagtail.io/">![logo](https://user-images.githubusercontent.com/71956678/236685507-cdfcc9da-9d2b-477f-b5e1-97ebd6c7cbd6.png)</a>
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png"/></a>
+<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+
 
 
 ### 📫 How to reach me: 
