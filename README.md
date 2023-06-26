@@ -15,6 +15,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 
+
 ### 💻 Skill and Tools:
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
@@ -29,7 +30,6 @@
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png"/></a>
-<a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
 
 
