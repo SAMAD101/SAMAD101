@@ -37,6 +37,9 @@
 - Discord: @BlueCircle3639
 - Element: @samad101:matrix.org
 
+### 💖 Support:
+https://bmc.link/samcoffee
+
 
 
 ### 📊 Some stats:
