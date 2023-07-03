@@ -45,9 +45,8 @@ https://bmc.link/samcoffee
 ### 📊 Some stats:
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=SAMAD101&show_icons=true&theme=tokyonight" alt="Sam" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMAD101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMAD101&theme=tokyonight" alt="Sam" />
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMAD101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam" /></div>
-<img alt="Sam's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SAMAD101&theme=dark" />
 
 
