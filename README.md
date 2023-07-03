@@ -33,10 +33,11 @@
 
 
 
-### 📫 How to reach me: 
+### 📫 Reach out: 
 - Discord: @BlueCircle3639
 - Element: @samad101:matrix.org
-- email: asamadans@gmail.com
+
+
 
 ### 📊 Some stats:
 <div align="center">
