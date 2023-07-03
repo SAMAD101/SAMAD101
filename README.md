@@ -39,6 +39,10 @@
 
 
 
+### 💖 Support:
+https://bmc.link/samcoffee
+
+
 ### 📊 Some stats:
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=SAMAD101&show_icons=true&theme=tokyonight" alt="Sam" />
