@@ -46,7 +46,6 @@ https://bmc.link/samcoffee
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=SAMAD101&show_icons=true&theme=tokyonight" alt="Sam" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMAD101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMAD101&theme=tokyonight" alt="Sam" />
 </div>
 
 
