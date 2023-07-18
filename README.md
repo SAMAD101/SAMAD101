@@ -34,7 +34,7 @@
 
 
 ### 📫 Reach out: 
-- Discord: @BlueCircle3639
+- Discord: @bluecircle [766507224150966314]
 - Element: @samad101:matrix.org
 
 ### 💖 Support:
