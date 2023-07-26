@@ -20,6 +20,7 @@
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://www.java.com/en/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+<a href="https://en.cppreference.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
