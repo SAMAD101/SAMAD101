@@ -22,6 +22,7 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 <a href="https://en.cppreference.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
@@ -31,6 +32,9 @@
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+<a href="https://ethereum.org/"><img src="https://img.icons8.com/color/48/000000/ethereum.png"/></a>
+[![386466_gnome_icon](https://github.com/SAMAD101/SAMAD101/assets/71956678/36534e6b-d5f3-47e7-a91f-2e036f356597)](https://www.gnome.org/)
 
 
 
