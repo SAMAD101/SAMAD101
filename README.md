@@ -27,11 +27,11 @@
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
 <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-<a href="https://www.sqlite.org/docs.html"><img src="https://img.icons8.com/color/48/000000/sql.png"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 <a href="https://docs.wagtail.io/">![logo](https://user-images.githubusercontent.com/71956678/236685507-cdfcc9da-9d2b-477f-b5e1-97ebd6c7cbd6.png)</a>
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/000000/canva.png"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/DCBT4pGvoQPhLti8Y_uYizNbHYKjXyO99y1wEeyEH2s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mYXN0YXBpLTEu/c3Zn.svg" alt="fastapi" width="40" height="40"/> </a>
 
 
 
