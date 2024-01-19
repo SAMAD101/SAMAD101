@@ -32,6 +32,7 @@
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/DCBT4pGvoQPhLti8Y_uYizNbHYKjXyO99y1wEeyEH2s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mYXN0YXBpLTEu/c3Zn.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/"><img src="https://github.com/SAMAD101/SAMAD101/assets/71956678/c81a1c17-e276-429f-810a-1afb2ea2ec0d"></a>
 
 
 
