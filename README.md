@@ -7,10 +7,10 @@
 **SAMAD101/SAMAD101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 💙 _Code Elegantly_ 💙
+## 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
-- 🌱 I’m currently learning Django and Docker
-- 💫 Fun fact: People who give up before even trying despite having resources frustrate me.
+<!-- - 🌱 I’m currently learning: -->
+<!-- - 💫 Fun fact: People who give up before even trying despite having resources frustrate me. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
@@ -46,11 +46,12 @@
 https://bmc.link/samcoffee
 
 
-
+<!--
 ### 📊 Some stats:
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=SAMAD101&show_icons=true&theme=tokyonight" alt="Sam" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMAD101&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sam" />
 </div>
+-->
 
 
