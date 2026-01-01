@@ -38,7 +38,7 @@
 
 
 ### 📫 Reach out: 
-- Discord: @bluecircle [766507224150966314]
+- Discord: @bluecircle
 - Matrix: <a href="https://matrix.to/#/@samad101:matrix.org">@samad101:matrix.org</a>
 
 ### 💖 Support:
