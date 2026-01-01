@@ -7,7 +7,6 @@
 **SAMAD101/SAMAD101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 💙 _Code Elegantly_ 💙
 <!-- - 🔭 I’m currently working on .. -->
 <!-- - 🌱 I’m currently learning: -->
 <!-- - 💫 Fun fact: People who give up before even trying despite having resources frustrate me. -->
